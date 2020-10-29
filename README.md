@@ -3,8 +3,7 @@ test repo
 
 hello world!
 
-Hi There !
+Hi There ! 
 
-Салам 
 
-**Ïîêà**
+**����**
